@@ -72,7 +72,7 @@ h1 {
     height: 50px;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
 
     align-items: flex-end;
     
@@ -173,14 +173,14 @@ transition: all .25s cubic-bezier(.42,0,.58,1)
     
 } 
 .f.starbucks .nav-menu ul li {
-   
+   font-size: 12px;
     list-style: none;
     line-height: 1;
-    padding: .5rem 2rem;
+    padding: .5rem 1rem;
     text-transform: uppercase;
     text-align: left;
 }
 
-
+@media
 
 
